@@ -16,16 +16,16 @@ The 'Summary Statistics' Workbook uses both of the cleaned data sets and include
 
 The 'Heat Maps Data' Workbook shows how the cleaned data was used to create heat maps that show the outlier homes, IQR homes, and homes with specific amenities.
 
-###California Homes
+### California Homes
 ![California](https://github.com/nuvvalaps/Project1-DataVis/blob/main/Image_folder/All%20Data%20plotted%20for%20California.png)
 
-###California Outliers
+### California Outliers
 ![CaliforniaOutliers](https://github.com/nuvvalaps/Project1-DataVis/blob/main/Image_folder/California%20Outliers%20plotted.png)
 
-###Georgia Homes
+### Georgia Homes
 ![Georgia](https://github.com/nuvvalaps/Project1-DataVis/blob/main/Image_folder/All%20Data%20plotted%20for%20Georgia.png)
 
-###Georgia Outliers
+### Georgia Outliers
 ![GeorgiaOutliers](https://github.com/nuvvalaps/Project1-DataVis/blob/main/Image_folder/Georgia%20Outliers.png)
 
 All images of plots and images of heat maps can be found in the 'Images' folder.
