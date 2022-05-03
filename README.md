@@ -17,3 +17,4 @@ The 'Heat Maps Data' Workbook shows how the cleaned data was used to create heat
 All images of plots and images of heat maps can be found in the 'Images' folder.
 
 Lastly, the 'Presentation' is the file for the ppt presentation of findings and conclusion.
+https://docs.google.com/presentation/d/1dq3yWP0WWf4e3RsxQPlzyY_5WEn6f5h6NtNk_kRbPAg/edit?usp=sharing
