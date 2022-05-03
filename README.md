@@ -5,6 +5,7 @@
 ## Both data sets were obtained from Kaggle with credit to Guenter Roehrich, who scraped the data from publicly available listings and created the dataset. Two datasets were used, one from California and one from Georgia. The data can be seen with the links below, or by accessing the CSV files under the dirty_data folder of the repository.
 
 https://www.kaggle.com/datasets/yellowj4acket/real-estate-california
+
 https://www.kaggle.com/datasets/yellowj4acket/real-estate-georgia
 
 ## The data was then imported, cleaned, and filtered as seen in the 'California Data (cleaned)' Workbook and the 'Georgia Data (cleaned)' Workbook. The finalized cleaned data was exported as CSV files and can be accessed under the clean_data folder of the repository. These workbooks also include dataframes for the timeline of sales and listings per state. 
