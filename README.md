@@ -15,6 +15,8 @@ The 'Summary Statistics' Workbook uses both of the cleaned data sets and include
 The 'Heat Maps Data' Workbook shows how the cleaned data was used to create heat maps that show the outlier homes, IQR homes, and homes with specific amenities.
 
 All images of plots and images of heat maps can be found in the 'Images' folder.
+![Boxplots]( 
+
 
 Lastly, the 'Presentation' is the file for the ppt presentation of findings and conclusion.
 https://docs.google.com/presentation/d/1dq3yWP0WWf4e3RsxQPlzyY_5WEn6f5h6NtNk_kRbPAg/edit?usp=sharing
